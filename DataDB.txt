@@ -1,0 +1,9 @@
+use Articles;
+db.article.insert({titre:"Kerim le BG", date:"2018-06-26", auteur:"@rimkee", contenu:"ce fut un jour chargé entre la MEP en entreprise et le pull request du node js", resume:"30h la journé"})
+db.article.insert({titre:"BMW", date:"2018-03-14", auteur:"@Leboncoin", contenu:"Voiture en très bonne etat, rien a prevoir juste vendez votre reins CDT", resume:"100 000€"})
+db.article.insert({titre:"Audi", date:"2017-03-23", auteur:"@NILOU", contenu:" Kerim kerim, sen olmazsan ne yaparim", resume:"Sorciere"})
+db.article.insert({titre:"Ninkasi", date: "2018-05-412", auteur: "Rukish" contenu: "Ce fut le premier pas au Creusot le 24/06/2018", resume:"Dodo"})
+db.article.insert ({titre:"APPLE", date: "2018-09-15", auteur: "Seref" contenu: "- Bonjour, je vous presente l'iphone 200, vous pouvez dorenavant tuer des gens avec cette iphone", resume: "gravité"})
+db.article.insert ({titre:"NOSQL", date: "2018-05-26", auteur: "Baud", contenu:"Il fait cours mais nest pas payé encore.. Merci Monsieur ! Vive Lyon 1 et son administration ", resume:"Etablissement a eviter.. "})
+db.article.insert ({titre:"JAVAEE", date: "1996-07-15", auteur:"FAC", contenu:"LA deadline pour le projet Banque est le 15 juillet les jeunes mais je nest rien fait.. " resume:"Nous sommes tous dans le ca.."})
+
