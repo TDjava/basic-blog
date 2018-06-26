@@ -7,6 +7,10 @@ _______________________
 
 fichier de base de donnée en pj pour tester.
 
+- mongo --shell
+- use Articles
+- et coller ligne par ligne ou tout vac des virgule du contenus de DataDB.txt 
+
 - service mongod start
  apres avoir injecté les données, on lance le server : 
  
